@@ -1,2 +1,2 @@
-# Test2
-This is to set up a working server.
+# WebSocket-ws-server
+This is to set up a working WebSocket 'ws' server.
